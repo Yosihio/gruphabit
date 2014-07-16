@@ -9,8 +9,8 @@
 	<link rel="stylesheet" href="css/estilos.css" />
 	<script src="js/prefixfree.js"></script>
 </head>
-
 <body>
+
 
 	<header>
 		<div id="div_logo">
@@ -31,7 +31,11 @@
 		</div>	
 	</header>
 
-	<section id="noticias"></section>
+
+	<section id="noticias">
+		<div>Contenedor de noticias</div>
+	</section>
+
 
 	<section id="contenido">
 		<article class="post">
@@ -65,19 +69,84 @@
 	</section>
 
 
-<footer id="footer" class="footer">
-    <div class="fcontenido">
-        <span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
-        <div class="social">
-            <div><span>Síguenos</span>
-            	<a href="" class="icon-twitter" target="_blank"></a>
-            	<a href="" class="icon-facebook"  target="_blank"></a>
-            	<a href="" class="icon-google-plus"  target="_blank"></a>
-            </div>
-        </div>
-    </div>
-</footer>
+	<section id="colaboradores" class="colaboradores">
+		<div class="contenedor caja-interna">
+			<h3 class="proveedor font-proveed">Somos Proveedores De Servicios De:</h3>
+			<div class="logotipos">
+				<a href="#" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
+					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Anfrute" class="sponsor">
+					<img src="img/anfrute.png" alt="Anfrute" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Cameron" class="sponsor">
+					<img src="img/Cameron.png" alt="Cameron" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="CFE" class="sponsor">
+					<img src="img/cfe.png" alt="CFE" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="DCS" class="sponsor">
+					<img src="img/dcs.png" alt="DCS" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="DS Servicios Petroleros" class="sponsor">
+					<img src="img/DS.png" alt="DS Servicios Petroleros" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Agroindustrias Unidas de México" class="sponsor">
+					<img src="img/Empre.png" alt="Agroindustrias Unidas de México" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Gas Del Atlantico" class="sponsor">
+					<img src="img/gasatlantico.png" alt="Gas Del Atlantico" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Halliburton" class="sponsor">
+					<img src="img/Halliburton.png" alt="Halliburton" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Latina" class="sponsor">
+					<img src="img/Latina.png" alt="Latina" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Pemex" class="sponsor">
+					<img src="img/Pemex.png" alt="Pemex" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Perforadora México" class="sponsor">
+					<img src="img/Perforadoramex.png" alt="Perforadora México" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Qmax" class="sponsor">
+					<img src="img/qmax.png" alt="Qmax" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="IPSA" class="sponsor">
+					<img src="img/ipsa.png" alt="IPSA" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Tenaris Tamsa" class="sponsor">
+					<img src="img/TenarisTamsa.png" alt="Tenaris Tamsa" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="TODCO" class="sponsor">
+					<img src="img/Todco.png" alt="TODCO" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Tuboscope" class="sponsor">
+					<img src="img/Tuboscope.png" alt="Tuboscope" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
+					<img src="img/vopak.png" alt="Vopak" height="28">
+				</a>
+				<a href="#" target="_blank" rel="nofollow" title="Voya.Ger" class="sponsor">
+					<img src="img/voya ge.png" alt="Voya.Ger" height="28">
+				</a>
+			</div>
+		</div>
+	</section>
 
+
+	<footer id="footer" class="footer">
+    	<div class="fcontenido">
+        	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
+        	<div class="social">
+            	<div><span>Síguenos</span>
+            		<a href="" class="icon-twitter"></a>
+            		<a href="" class="icon-facebook"></a>
+            		<a href="" class="icon-google-plus"></a>
+            	</div>
+        	</div>
+    	</div>
+	</footer>
 
 
 </body>
