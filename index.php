@@ -25,9 +25,9 @@
 			<nav>
 				<ul>
 					<li><a href="#">¿Quienes somos?</a></li>
-					<li><a href="#">Enlaces</a></li>
+					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="#">Logros</a></li>
-					<li><a href="#">Contactos</a></li>
+					<li><a href="#">Contactanos</a></li>
 				</ul>
 			</nav>
 		</div>	
@@ -43,25 +43,25 @@
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p><strong>Misión</strong></p>
+					<p id="tras"><strong>Misión</strong></p>
 					<p>Somos una empresa dedicada a proteger el medio ambiente, a través de métodos 
 						técnico-científicos y en la aplicación del marco jurídico, contribuyendo al 
 						éxito de nuestros clientes proporcionándoles soluciones integrales, con base 
 						en nuestro equipo técnico y humano perfectamente capacitado, motivado y comprometido.
 					</p>
-					<p><strong>Visión</strong></p>
+					<p id="tras"><strong>Visión</strong></p>
 					<p>Mejorar y mantener el desarrollo sustentable, enfatizando en la protección del 
 						medio ambiente para optimizar los recursos naturales del país, consolidando la 
 						preferencia de nuestros clientes por la excelencia de los servicios ambientales 
 						que les proporcionamos.
 					</p>
-					<p><strong>Política</strong></p>
+					<p id="tras"><strong>Política</strong></p>
 					<p>El éxito de nuestra empresa depende de la preferencia y la satisfacción de nuestros 
 						clientes al ofrecerles soluciones con un nivel de calidad que rebase sus espectativas, 
 						por ello nos comprometemos a mejorar continuamente nuestra organizacion , así 
 						como a preservar nuestro medio ambiente.
 					</p>
-					<p><strong>Valores</strong></p>
+					<p id="tras"><strong>Valores</strong></p>
 					<p>Estamos concientes de que para ofrecer un servicio de calidad así como aumentar 
 						nuestra productividad, es necesario fomentar valores de nuestro personal tales como:
 					</p>
@@ -75,31 +75,31 @@
 		<div class="contenedor caja-interna">
 			<h3 class="proveedor font-proveed">Somos Proveedores De Servicios De:</h3>
 			<div class="logotipos">
-				<a href="#" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
+				<a href="http://www.acuariodeveracruz.com/" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
 					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Anfrute" class="sponsor">
 					<img src="img/anfrute.png" alt="Anfrute" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Cameron" class="sponsor">
+				<a href="http://www.c-a-m.com" target="_blank" rel="nofollow" title="Cameron" class="sponsor">
 					<img src="img/Cameron.png" alt="Cameron" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="CFE" class="sponsor">
+				<a href="http://www.cfe.gob.mx/" target="_blank" rel="nofollow" title="CFE" class="sponsor">
 					<img src="img/cfe.png" alt="CFE" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="DCS" class="sponsor">
 					<img src="img/dcs.png" alt="DCS" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="DS Servicios Petroleros" class="sponsor">
+				<a href="http://www.dssp.com.mx/" target="_blank" rel="nofollow" title="DS Servicios Petroleros" class="sponsor">
 					<img src="img/DS.png" alt="DS Servicios Petroleros" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Agroindustrias Unidas de México" class="sponsor">
+				<a href="http://www.agroindustriasmexico.com.mx/" target="_blank" rel="nofollow" title="Agroindustrias Unidas de México" class="sponsor">
 					<img src="img/Empre.png" alt="Agroindustrias Unidas de México" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Gas Del Atlantico" class="sponsor">
+				<a href="http://www.gasdelatlantico.com.mx/" target="_blank" rel="nofollow" title="Gas Del Atlantico" class="sponsor">
 					<img src="img/gasatlantico.png" alt="Gas Del Atlantico" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Halliburton" class="sponsor">
+				<a href="http://www.halliburton.com/" target="_blank" rel="nofollow" title="Halliburton" class="sponsor">
 					<img src="img/Halliburton.png" alt="Halliburton" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Latina" class="sponsor">

@@ -101,6 +101,11 @@ ul{
 #noticias{
 	margin-top: 91px;
 }
+#tras{
+	display: block;
+	animation-duration: 3s;
+	animation-name: slidein;
+}
 .caja-interna{
 	padding: 0 20px;
 }
@@ -127,6 +132,7 @@ ul{
 }
 .footer{
 	vertical-align: middle;
+	text-align: center;
 	padding: 20px;
 }
 .logotipos{
@@ -154,7 +160,17 @@ ul{
 
 
 
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
 
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
 @media screen and (min-width: 800px){
 
 }
