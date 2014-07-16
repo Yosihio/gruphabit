@@ -41,25 +41,25 @@
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p>Misión</p>
+					<p><strong>Misión</strong></p>
 					<p>Somos una empresa dedicada a proteger el medio ambiente, a través de métodos 
 						técnico-científicos y en la aplicación del marco jurídico, contribuyendo al 
 						éxito de nuestros clientes proporcionándoles soluciones integrales, con base 
 						en nuestro equipo técnico y humano perfectamente capacitado, motivado y comprometido.
 					</p>
-					<p>Visión</p>
+					<p><strong>Visión</strong></p>
 					<p>Mejorar y mantener el desarrollo sustentable, enfatizando en la protección del 
 						medio ambiente para optimizar los recursos naturales del país, consolidando la 
 						preferencia de nuestros clientes por la excelencia de los servicios ambientales 
 						que les proporcionamos.
 					</p>
-					<p>Política</p>
+					<p><strong>Política</strong></p>
 					<p>El éxito de nuestra empresa depende de la preferencia y la satisfacción de nuestros 
 						clientes al ofrecerles soluciones con un nivel de calidad que rebase sus espectativas, 
 						por ello nos comprometemos a mejorar continuamente nuestra organizacion , así 
 						como a preservar nuestro medio ambiente.
 					</p>
-					<p>Valores</p>
+					<p><strong>Valores</strong></p>
 					<p>Estamos concientes de que para ofrecer un servicio de calidad así como aumentar 
 						nuestra productividad, es necesario fomentar valores de nuestro personal tales como:
 					</p>
