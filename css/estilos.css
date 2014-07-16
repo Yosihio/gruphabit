@@ -13,8 +13,13 @@ a{
 	text-decoration: none;
 	list-style: none;
 	color: #fff;
+	padding: ;
 }
-
+a:-webkit-any-link{
+	color: webkit-link;
+	text-decoration: underline;
+	cursor: auto;
+}
 div{
 	display: block;
 }

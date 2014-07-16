@@ -8,6 +8,8 @@
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
 	<script src="js/prefixfree.js"></script>
+
+
 </head>
 <body>
 
@@ -74,61 +76,61 @@
 			<h3 class="proveedor font-proveed">Somos Proveedores De Servicios De:</h3>
 			<div class="logotipos">
 				<a href="#" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
-					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="28">
+					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Anfrute" class="sponsor">
-					<img src="img/anfrute.png" alt="Anfrute" height="28">
+					<img src="img/anfrute.png" alt="Anfrute" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Cameron" class="sponsor">
-					<img src="img/Cameron.png" alt="Cameron" height="28">
+					<img src="img/Cameron.png" alt="Cameron" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="CFE" class="sponsor">
-					<img src="img/cfe.png" alt="CFE" height="28">
+					<img src="img/cfe.png" alt="CFE" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="DCS" class="sponsor">
-					<img src="img/dcs.png" alt="DCS" height="28">
+					<img src="img/dcs.png" alt="DCS" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="DS Servicios Petroleros" class="sponsor">
-					<img src="img/DS.png" alt="DS Servicios Petroleros" height="28">
+					<img src="img/DS.png" alt="DS Servicios Petroleros" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Agroindustrias Unidas de México" class="sponsor">
-					<img src="img/Empre.png" alt="Agroindustrias Unidas de México" height="28">
+					<img src="img/Empre.png" alt="Agroindustrias Unidas de México" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Gas Del Atlantico" class="sponsor">
-					<img src="img/gasatlantico.png" alt="Gas Del Atlantico" height="28">
+					<img src="img/gasatlantico.png" alt="Gas Del Atlantico" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Halliburton" class="sponsor">
-					<img src="img/Halliburton.png" alt="Halliburton" height="28">
+					<img src="img/Halliburton.png" alt="Halliburton" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Latina" class="sponsor">
-					<img src="img/Latina.png" alt="Latina" height="28">
+					<img src="img/Latina.png" alt="Latina" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Pemex" class="sponsor">
-					<img src="img/Pemex.png" alt="Pemex" height="28">
+					<img src="img/Pemex.png" alt="Pemex" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Perforadora México" class="sponsor">
-					<img src="img/Perforadoramex.png" alt="Perforadora México" height="28">
+					<img src="img/Perforadoramex.png" alt="Perforadora México" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Qmax" class="sponsor">
-					<img src="img/qmax.png" alt="Qmax" height="28">
+					<img src="img/qmax.png" alt="Qmax" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="IPSA" class="sponsor">
-					<img src="img/ipsa.png" alt="IPSA" height="28">
+					<img src="img/ipsa.png" alt="IPSA" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Tenaris Tamsa" class="sponsor">
-					<img src="img/TenarisTamsa.png" alt="Tenaris Tamsa" height="28">
+					<img src="img/TenarisTamsa.png" alt="Tenaris Tamsa" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="TODCO" class="sponsor">
-					<img src="img/Todco.png" alt="TODCO" height="28">
+					<img src="img/Todco.png" alt="TODCO" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Tuboscope" class="sponsor">
-					<img src="img/Tuboscope.png" alt="Tuboscope" height="28">
+					<img src="img/Tuboscope.png" alt="Tuboscope" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
-					<img src="img/vopak.png" alt="Vopak" height="28">
+					<img src="img/vopak.png" alt="Vopak" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Voya.Ger" class="sponsor">
-					<img src="img/voya ge.png" alt="Voya.Ger" height="28">
+					<img src="img/voya ge.png" alt="Voya.Ger" height="50">
 				</a>
 			</div>
 		</div>
@@ -149,5 +151,6 @@
 	</footer>
 
 
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 </body>
 </html>
