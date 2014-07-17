@@ -24,9 +24,10 @@
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li><a href="#">¿Quienes somos?</a></li>
+					<li><a href="/index/#footer">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
-					<li><a href="#">Logros</a></li>
+					<li><a href="#">Historia</a></li>
+					<li><a href="#">Alianzas</a></li>
 					<li><a href="#">Contactanos</a></li>
 				</ul>
 			</nav>
@@ -102,31 +103,31 @@
 				<a href="http://www.halliburton.com/" target="_blank" rel="nofollow" title="Halliburton" class="sponsor">
 					<img src="img/Halliburton.png" alt="Halliburton" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Latina" class="sponsor">
+				<a href="http://www.cplatina.com/" target="_blank" rel="nofollow" title="Latina" class="sponsor">
 					<img src="img/Latina.png" alt="Latina" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Pemex" class="sponsor">
+				<a href="http://www.pemex.com/" target="_blank" rel="nofollow" title="Pemex" class="sponsor">
 					<img src="img/Pemex.png" alt="Pemex" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Perforadora México" class="sponsor">
+				<a href="http://www.gmexico.com.mx/" target="_blank" rel="nofollow" title="Perforadora México" class="sponsor">
 					<img src="img/Perforadoramex.png" alt="Perforadora México" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Qmax" class="sponsor">
+				<a href="http://www.qmaxsolutions.com/" target="_blank" rel="nofollow" title="Qmax" class="sponsor">
 					<img src="img/qmax.png" alt="Qmax" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="IPSA" class="sponsor">
 					<img src="img/ipsa.png" alt="IPSA" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Tenaris Tamsa" class="sponsor">
+				<a href="http://www.tenaristamsa.com/" target="_blank" rel="nofollow" title="Tenaris Tamsa" class="sponsor">
 					<img src="img/TenarisTamsa.png" alt="Tenaris Tamsa" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="TODCO" class="sponsor">
+				<a href="http://www.todco.com/" target="_blank" rel="nofollow" title="TODCO" class="sponsor">
 					<img src="img/Todco.png" alt="TODCO" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Tuboscope" class="sponsor">
+				<a href="http://www.nov.com/tuboscope/" target="_blank" rel="nofollow" title="Tuboscope" class="sponsor">
 					<img src="img/Tuboscope.png" alt="Tuboscope" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
+				<a href="http://www.vopak.com/" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
 					<img src="img/vopak.png" alt="Vopak" height="50">
 				</a>
 				<a href="#" target="_blank" rel="nofollow" title="Voya.Ger" class="sponsor">
