@@ -5,6 +5,7 @@
 	<meta name="description" content="Grupo Ambiental Hábitat" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
 	<title>Alianzas</title>
+	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
 	<script src="js/prefixfree.js"></script>
