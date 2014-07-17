@@ -24,7 +24,7 @@
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li><a href="index.php">¿Quienes somos?</a></li>
+					<li class="selected"><a href="index.php">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
