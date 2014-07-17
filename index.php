@@ -14,7 +14,6 @@
 </head>
 <body>
 
-
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
@@ -37,7 +36,13 @@
 
 
 	<section id="noticias">
-		<div>Contenedor de noticias</div>
+		<div class="slider">
+			<img src="img/slider/captions.jpg" border="0" alt="captions"/>
+			<img src="img/slider/coffee.jpg" border="0" alt="coffee"/>
+			<img src="img/slider/overflow.jpg" border="0" alt="overflow"/>
+		</div>
+		<div class="shadow">
+		</div>
 	</section>
 
 
@@ -153,6 +158,7 @@
 	</footer>
 
 
-	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="js/habitatjs.js"></script>
 </body>
 </html>
