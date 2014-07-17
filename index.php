@@ -12,7 +12,7 @@
 
 
 </head>
-<body>
+<body onload="Slider();">
 
 	<header>
 		<div id="div_logo">
@@ -37,9 +37,9 @@
 
 	<section id="noticias">
 		<div class="slider">
-			<img src="img/slider/captions.jpg" border="0" alt="captions"/>
-			<img src="img/slider/coffee.jpg" border="0" alt="coffee"/>
-			<img src="img/slider/overflow.jpg" border="0" alt="overflow"/>
+			<img id="1" src="img/slider/captions.jpg" border="0" alt="captions"/>
+			<img id="2" src="img/slider/coffee.jpg" border="0" alt="coffee"/>
+			<img id="3" src="img/slider/overflow.jpg" border="0" alt="overflow"/>
 		</div>
 		<div class="shadow">
 		</div>
@@ -158,7 +158,8 @@
 	</footer>
 
 
-	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
 </body>
 </html>
