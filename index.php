@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8" />
-	<meta name="description" content="Grupo Ambiental Hábitat" />
+	<meta name="description" content="Empresa prestadora de servicios Ambientales, de Seguridad Industrial, Higiene y Medio Ambiente Laboral" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
 	<title>Grupo Ambiental Hábitat</title>
 	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
@@ -151,7 +151,7 @@
             	<div><span>Síguenos</span>
             		<a href="" class="icon-twitter"></a>
             		<a href="" class="icon-facebook"></a>
-            		<a href="" class="icon-google-plus"></a>
+            		<a href="" class="icon-googleplus"></a>
             	</div>
         	</div>
     	</div>
