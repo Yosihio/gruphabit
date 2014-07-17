@@ -24,11 +24,11 @@
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li><a href="/index/#footer">¿Quienes somos?</a></li>
+					<li><a href="index.php">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
-					<li><a href="#">Historia</a></li>
-					<li><a href="#">Alianzas</a></li>
-					<li><a href="#">Contactanos</a></li>
+					<li><a href="historia.php">Historia</a></li>
+					<li><a href="alianzas.php">Alianzas</a></li>
+					<li><a href="contactanos.php">Contactanos</a></li>
 				</ul>
 			</nav>
 		</div>	
