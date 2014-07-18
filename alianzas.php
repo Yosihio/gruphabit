@@ -35,8 +35,9 @@
 		</div>	
 	</header>
 
-
-
+	<section>
+		NUESTRO GRUPO DE EMPRESAS ALIANZADAS
+	</section>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">
@@ -45,13 +46,15 @@
             	<div><span>Síguenos</span>
             		<a href="" class="icon-twitter"></a>
             		<a href="" class="icon-facebook"></a>
-            		<a href="" class="icon-google-plus"></a>
+            		<a href="" class="icon-googleplus"></a>
             	</div>
         	</div>
     	</div>
 	</footer>
 
 
-	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/habitatjs.js"></script>
 </body>
 </html>

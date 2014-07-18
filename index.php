@@ -45,7 +45,6 @@
 		</div>
 	</section>
 
-
 	<section id="contenido">
 		<article class="post">
 			<div class="post-cajon">
@@ -160,6 +159,8 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/jquery-css-transform.js"></script>
+    <script type="text/javascript" src="js/jquery-animate-css-rotate-scale.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
 </body>
 </html>
