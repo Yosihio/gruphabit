@@ -148,9 +148,9 @@
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
         	<div class="social">
             	<div><span>Síguenos</span>
-            		<a href="" class="icon-twitter"></a>
-            		<a href="" class="icon-facebook"></a>
-            		<a href="" class="icon-googleplus"></a>
+            		<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
+            		<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" class="icon-facebook sponsor" target="_blank" rel="nofollow"></a>
+            		<a href="" class="icon-googleplus sponsor" target="_blank" rel="nofollow"></a>
             	</div>
         	</div>
     	</div>
