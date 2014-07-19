@@ -42,7 +42,7 @@
 	</header>
 
 <section class="formcontac">
-<form name="efren-martinez" id="efren-martinez-form" method="post" action="contact.php">
+<form name="efren-martinez" id="formmail" method="post" action="contact.php">
 		<div id="wrapping" class="clearfix">
 			<section id="aligned">
 			<input type="text" name="name" id="name" placeholder="Nombre" autocomplete="off" tabindex="1" class="txtinput">

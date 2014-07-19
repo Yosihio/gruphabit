@@ -341,10 +341,10 @@ ul{
 	width: 60%;
 	margin: 0 auto;
 }
-#efren-martinez-form {
+#formmail {
 	box-sizing: border-box; 
 }
-#efren-martinez-form .txtinput { 
+#formmail .txtinput { 
 	display: block; 
 	border-style: solid; 
 	border-width: 1px; 
@@ -359,24 +359,24 @@ ul{
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; 
 	transition: border 0.15s linear 0s, box-shadow 0.15s linear 0s, color 0.15s linear 0s;
 }
-#efren-martinez-form .txtinput:focus {
+#formmail .txtinput:focus {
 	color: #333; 
 	border-color: rgba(41, 92, 161, 0.4); 
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset, 0 0 3px rgba(41, 92, 161, 0.6); outline: 0 none; 
 }
-#efren-martinez-form input#name {
+#formmail input#name {
 	background: #fff url('../icoms/user.png') 5px 4px no-repeat;
 }
-#efren-martinez-form input#email {
+#formmail input#email {
 	background: #fff url('../icoms/email.png') 5px 4px no-repeat;
 }
-#efren-martinez-form input#website {
+#formmail input#website {
 	background: #fff url('../icoms/website.png') 5px 4px no-repeat;
 }
-#efren-martinez-form input#telephone {
+#formmail input#telephone {
 	background: #fff url('../icoms/phone.png') 5px 4px no-repeat;
 }
-#efren-martinez-form textarea {
+#formmail textarea {
 	display: block;
 	font-family: "Raleway", sans-serif;
 	border-style: solid; border-width: 1px;
@@ -390,22 +390,22 @@ ul{
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; 
 	transition: border 0.15s linear 0s, box-shadow 0.15s linear 0s, color 0.15s linear 0s;
 }
-#efren-martinez-form textarea:focus {
+#formmail textarea:focus {
 	color: #333;
 	border-color: rgba(41, 92, 161, 0.4);
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset, 0 0 3px rgba(40, 90, 160, 0.6);
 	outline: 0 none; 
 }
-#efren-martinez-form textarea.txtblock {
+#formmail textarea.txtblock {
 	background: #fff url('../icoms/speech.png') 5px 4px no-repeat;
 }
-#efren-martinez-form #aligned {
+#formmail #aligned {
 	box-sizing: border-box;
 	float: left;
 	width: 450px;
 	margin-right: 50px; 
 }
-#efren-martinez-form #aside {
+#formmail #aside {
 	float: left;
 	width: 250px;
 	text-align:left;
@@ -505,17 +505,17 @@ html[xmlns] .clearfix {
 	#container {
 		width: 100%;
 	}
-	#efren-martinez-form #aligned {
+	#formmail #aligned {
 		width: 100%;
 		float: none;
 		display: block;
 	}
-	#efren-martinez-form #aside {
+	#formmail #aside {
 		width: 100%;
 		display: block;
 		float: none;
 	}
-	#efren-martinez-form .txtinput, #efren-martinez-form textarea { width: 85%;
+	#formmail .txtinput, #formmail textarea { width: 85%;
 	}
 	#prioritycase { float: left; display: block;
 	}
@@ -523,7 +523,7 @@ html[xmlns] .clearfix {
 	}
 }
 @media only screen and (max-width: 550px) {
- 	#efren-martinez-form .txtinput, #efren-martinez-form textarea {
+ 	#formmail .txtinput, #formmail textarea {
  		width: 80%;
 	}
 }
@@ -533,10 +533,10 @@ html[xmlns] .clearfix {
 	}
 }
 @media only screen and (max-width: 320px) {
- 	#efren-martinez-form .txtinput, #efren-martinez-form textarea {
+ 	#formmail .txtinput, #formmail textarea {
  		width: 70%;
 	}
-	#efren-martinez-form #aligned {
+	#formmail #aligned {
 		overflow: hidden;
 	}
 	select.selmenu {
