@@ -17,7 +17,9 @@
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
+				<a href="index.php">
 				<img src="img/habitat.png" />
+				</a>
 			</figure>
 			<h1>Grupo Ambiental Hábitat
             		<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>

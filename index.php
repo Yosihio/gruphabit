@@ -17,7 +17,9 @@
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
+				<a href="index.php">
 				<img src="img/habitat.png" />
+				</a>
 			</figure>
 			<h1>Grupo Ambiental Hábitat
             		<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
@@ -121,8 +123,8 @@
     	<div class="fcontenido">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
         	<div class="social">
-            	<div><span>Nos Encuentran En</span>
-            		<a href=""></a>
+            	<div><span>Nos Encuentran En<br></span>
+            		<a href="https://www.google.com.mx/maps/place/Grupo+Ambiental+Habitat,+S.A.+De+C.V./@19.529025,-96.91447,17z/data=!3m1!4b1!4m2!3m1!1s0x85db32023415b1d3:0xfc2e33009f890070" class="icon-map-pin sponsor" target="_blank" rel="nofollow"></a>
             	</div>
         	</div>
     	</div>
