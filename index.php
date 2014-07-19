@@ -21,16 +21,19 @@
 				<img src="img/habitat.png" />
 				</a>
 			</figure>
-			<h1>Grupo Ambiental Hábitat
-            		<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
-            		<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" class="icon-facebook sponsor" target="_blank" rel="nofollow"></a>
-            		<a href="" class="icon-googleplus sponsor" target="_blank" rel="nofollow"></a>
-            </h1>
+			<h1>
+				Grupo Ambiental Hábitat &nbsp &nbsp &nbsp
+				<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
+				&nbsp
+            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" class="icon-facebook sponsor" target="_blank" rel="nofollow"></a>
+            	&nbsp 
+            	<a href="" class="icon-googleplus sponsor" target="_blank" rel="nofollow"></a>
+			</h1>
 		</div>
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li class="selected"><a href="quienes.php">¿Quienes somos?</a></li>
+					<li><a href="quienes.php">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
@@ -38,15 +41,18 @@
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
+		</div>
+		<div id="div_social">
 		</div>	
 	</header>
 
 
 	<section id="noticias">
 		<div class="slider">
-			<img id="1" src="img/slider/captions.jpg" border="0" alt="captions"/>
-			<img id="2" src="img/slider/coffee.jpg" border="0" alt="coffee"/>
-			<img id="3" src="img/slider/overflow.jpg" border="0" alt="overflow"/>
+			<img id="1" src="img/slider/nature.jpg" border="0" alt="captions"/>
+			<img id="2" src="img/slider/nature1.jpg" border="0" alt="coffee"/>
+			<img id="3" src="img/slider/nature2.jpg" border="0" alt="overflow"/>
+			<img id="4" src="img/slider/nature3.jpg" border="0" alt="overflow"/>
 		</div>
 	</section>
 
