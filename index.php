@@ -42,8 +42,6 @@
 			<img id="2" src="img/slider/coffee.jpg" border="0" alt="coffee"/>
 			<img id="3" src="img/slider/overflow.jpg" border="0" alt="overflow"/>
 		</div>
-		<div class="shadow">
-		</div>
 	</section>
 
 	<section id="contenido">
