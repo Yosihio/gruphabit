@@ -2,9 +2,9 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8" />
-	<meta name="description" content="Grupo Ambiental Hábitat" />
+	<meta name="description" content="Empresa prestadora de servicios Ambientales, de Seguridad Industrial, Higiene y Medio Ambiente Laboral" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
-	<title>Alianzas</title>
+	<title>Grupo Ambiental Hábitat</title>
 	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
@@ -12,24 +12,30 @@
 
 
 </head>
-<body>
-
+<body onload="Slider();">
 
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
+				<a href="index.php">
 				<img src="img/habitat.png" />
+				</a>
 			</figure>
-			<h1>Grupo Ambiental Hábitat</h1>
+			<h1>Grupo Ambiental Hábitat
+            		<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
+            		<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" class="icon-facebook sponsor" target="_blank" rel="nofollow"></a>
+            		<a href="" class="icon-googleplus sponsor" target="_blank" rel="nofollow"></a>
+            </h1>
 		</div>
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li><a href="index.php">¿Quienes somos?</a></li>
+					<li class="selected"><a href="quienes.php">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
-					<li class="selected"><a href="alianzas.php">Alianzas</a></li>
+					<li><a href="alianzas.php">Alianzas</a></li>
 					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="login.html">php</a></li>
 				</ul>
 			</nav>
 		</div>	
@@ -43,10 +49,8 @@
     	<div class="fcontenido">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
         	<div class="social">
-            	<div><span>Síguenos</span>
-            		<a href="" class="icon-twitter"></a>
-            		<a href="" class="icon-facebook"></a>
-            		<a href="" class="icon-googleplus"></a>
+            	<div><span>Nos Encuentran En</span>
+            		<a href=""></a>
             	</div>
         	</div>
     	</div>

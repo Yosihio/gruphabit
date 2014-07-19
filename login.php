@@ -15,7 +15,7 @@
         <div class="container">
             <div class="codrops-top">
                 <a href="index.php">
-                    <strong>&laquo; Grupo Ambiental Hábitat </strong>S. A. de C. V. © 2013
+                    <strong>&laquo; Grupo Ambiental Habitat </strong>S. A. de C. V. © 2013
                 </a>
                 <span class="right">
                     <a href="index.php">
@@ -25,7 +25,7 @@
                 <div class="clr"></div>
             </div>
             <header>
-                <h1>Sistema de Logueo <span>Grupo Ambiental Hábitat</span></h1>
+                <h1>Sistema de Logueo <span>Grupo Ambiental Habitat</span></h1>
             </header>
             <section>				
                 <div id="container_demo" >
