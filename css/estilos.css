@@ -189,6 +189,9 @@ ul{
 .colaboradores .logotipos{
 	text-align: center;
 }
+.colaboradores .logotipos a{
+	padding: 0px 10px 0 0;
+}
 .contenedor{
 	max-width: 1000px;
 	margin: 0 auto;
