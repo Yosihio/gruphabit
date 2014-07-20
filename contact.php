@@ -59,9 +59,15 @@
  'X-Mailer: PHP/' . phpversion();
   mail($email_to, $email_subject, $email_message, $headers);  
  ?>
- <meta http-equiv="refresh" content="3;index.php" />
+ <meta  />
  <body>
  <h2>Me comunicare con usted lo antes posible. ahora sera redireccionado a la pagina principal. Muchas Gracias.</h2>
+ <?php 
+ echo $email_to;
+ echo $email_subject;
+ echo $email_message;
+ echo $headers;
+ ?>
  </body>
  <?php
  }
