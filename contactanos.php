@@ -8,6 +8,7 @@
 	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
+	<link rel="stylesheet" href="css/contactanos.css">
 	<script src="js/prefixfree.js"></script>
 
 
