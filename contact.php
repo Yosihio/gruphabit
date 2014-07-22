@@ -1,7 +1,7 @@
 <?php
  if(isset($_POST['email'])) {
-     $email_to = "sadow_04@hotmail.com";
-     $email_subject = "dannylo9891@gmail.com";
+     $email_to = "newpage@grupo-habitat.com";
+     $email_subject = "Empresa Interesada";
      function died($error) {
 
          echo "Disculpas, pero ha ocurrido un(os) error(es) con lo datos del formulario. ";
@@ -22,25 +22,18 @@
      $email = $_POST['email'];
      $website = $_POST['website'];
      $telephone = $_POST['telephone'];
-     $prioritycase = $_POST['prioritycase'];
-     $asunto = $_POST['asunto']; 
      $message = $_POST['message']; 
      $error_message = "";
  
  $headers = 'From: '.$email."\r\n".
  'Reply-To: '.$email."\r\n" .
  'X-Mailer: PHP/' . phpversion();
-  mail($email_to, $email_subject, $email_message, $headers);  
+  mail($email_to, $email_subject, $message, $headers);  
  ?>
- <meta  />
+ <meta/>
  <body>
  <h2>Me comunicare con usted lo antes posible. ahora sera redireccionado a la pagina principal. Muchas Gracias.</h2>
- <?php 
- echo $email_to;
- echo $email_subject;
- echo $email_message;
- echo $headers;
- ?>
+
  </body>
  <?php
  }

@@ -51,33 +51,6 @@
 			<input type="text" name="website" id="website" placeholder="Website URL" autocomplete="off" tabindex="3" class="txtinput">
 			<input type="tel" name="telephone" id="telephone" placeholder="WhatsApp (optional)" tabindex="4" class="txtinput">
 			<textarea name="message" id="message" placeholder="Comentario" tabindex="5" class="txtblock"></textarea>
-			</section>
-			<section id="aside" class="clearfix">
-				<section id="recipientcase">
-				<h3>Asunto:</h3>
-					<select id="asunto" name="recipient" tabindex="6" class="selmenu">
-  						<option value="rediseño">Auditoria</option>
-  						<option value="programacion">Protecion</option>
-  						<option value="desarrollo">Desarrollo</option>
-  						<option value="aplicaciones">Ventas</option>
-					</select>
-				</section>
-				<section id="prioritycase">
-					<h3>Prioridad:</h3>
-					<span class="radiobadge">
-						<input type="radio" id="low" name="priority" value="baja">
-						<label for="low">Baja</label>
-					</span>
-					<span class="radiobadge">
-						<input type="radio" id="med" name="priority" value="media" checked="checked">
-						<label for="med">Media</label>
-					</span>
-					<span class="radiobadge">
-						<input type="radio" id="high" name="priority" value="alta">
-						<label for="high">Alta</label>
-					</span>
-				</section>
-			</section>
 		</div>
 		<section id="buttons">
 			<input type="reset" name="reset" id="resetbtn" class="resetbtn" value="Reset">
