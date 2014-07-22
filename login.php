@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
-        <title>Login and Registration Form with HTML5 and CSS3</title>
+        <title>Login GAH</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Login and Registration Form with HTML5 and CSS3" />
         <link rel="shortcut icon" href="../favicon.ico"> 
@@ -33,7 +33,7 @@
                     <a class="hiddenanchor" id="tologin"></a>
                     <div id="wrapper">
                         <div id="login" class="animate form">
-                            <form  action="mysuperscript.php" autocomplete="on"> 
+                            <form  action="validacion.php" autocomplete="on" method="post"> 
                                 <h1>Log in</h1> 
                                 <p> 
                                     <label for="username" class="uname" data-icon="u" > Usuario </label>
@@ -48,7 +48,7 @@
 									<label for="loginkeeping">Recordar mi password</label>
 								</p>
                                 <p class="login button"> 
-                                    <input type="submit" value="Login" /> 
+                                    <input type="submit" value="Login" name="Submit"/> 
 								</p>
                                 <p class="change_link">
 								</p>
