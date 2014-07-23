@@ -49,7 +49,7 @@
 			<input type="text" name="name" id="name" placeholder="Nombre" autocomplete="off" tabindex="1" class="txtinput">
 			<input type="email" name="email" id="email" placeholder="E-mail" autocomplete="off" tabindex="2" class="txtinput">
 			<input type="text" name="website" id="website" placeholder="Website URL" autocomplete="off" tabindex="3" class="txtinput">
-			<input type="tel" name="telephone" id="telephone" placeholder="WhatsApp (optional)" tabindex="4" class="txtinput">
+			<input type="tel" name="telephone" id="telephone" placeholder="Telefono" tabindex="4" class="txtinput">
 			<textarea name="message" id="message" placeholder="Comentario" tabindex="5" class="txtblock"></textarea>
 		</div>
 		<section id="buttons">
@@ -62,10 +62,10 @@
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">
-        	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2013</span>
+        	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2014</span>
         	<div class="social">
-            	<div><span>Nos Encuentran En</span>
-            		<a href=""></a>
+            	<div><span>Nos Encuentran En<br></span>
+            		<a href="https://www.google.com.mx/maps/place/Grupo+Ambiental+Habitat,+S.A.+De+C.V./@19.529025,-96.91447,17z/data=!3m1!4b1!4m2!3m1!1s0x85db32023415b1d3:0xfc2e33009f890070" class="icon-map-pin sponsor" target="_blank" rel="nofollow"></a>
             	</div>
         	</div>
     	</div>
