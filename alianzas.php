@@ -23,11 +23,14 @@
 			</figure>
 			<h1>
 				Grupo Ambiental Hábitat &nbsp &nbsp &nbsp
-				<a href="" class="icon-twitter sponsor" target="_blank" rel="nofollow"></a>
+				<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
+					<img src="icoms/LinkedInOut.png" width="40" height="40" onMouseOver="this.src='icoms/LinkedInOver.png';" onMouseOut="this.src='icoms/LinkedInOut.png';"/>
+				</a>
 				&nbsp
-            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" class="icon-facebook sponsor" target="_blank" rel="nofollow"></a>
-            	&nbsp 
-            	<a href="" class="icon-googleplus sponsor" target="_blank" rel="nofollow"></a>
+            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
+            		<img src="icoms/FacebookOut.png" width="40" height="40" onMouseOver="this.src='icoms/FacebookOver.png';" onMouseOut="this.src='icoms/FacebookOut.png';" />
+            	</a>
+            	&nbsp
 			</h1>
 		</div>
 		<div id="div_menu">	
