@@ -177,11 +177,17 @@ html[xmlns] .clearfix {
 		display: block;
 		float: none;
 	}
-	#formmail .txtinput, #formmail textarea { width: 85%;
+	#formmail .txtinput, #formmail textarea {
+		width: 85%;
 	}
-	#prioritycase { float: left; display: block;
+	#prioritycase {
+		float: left;
+		display: block;
 	}
-	#recipientcase { float: left; display: block; margin-right: 55px;
+	#recipientcase {
+		float: left;
+		display: block;
+		margin-right: 55px;
 	}
 }
 @media only screen and (max-width: 550px) {

@@ -51,34 +51,31 @@
 <section class="formcontac">
 <form name="efren-martinez" id="formmail" method="post" action="contact.php">
 		<div id="wrapping" class="clearfix">
-	<section id="aligned">
+			<section id="aligned">
 			<input type="text" name="name" id="name" placeholder="Nombre" autocomplete="off" tabindex="1" class="txtinput">
 			<input type="email" name="email" id="email" placeholder="E-mail" autocomplete="off" tabindex="2" class="txtinput">
 			<input type="text" name="website" id="website" placeholder="Website URL" autocomplete="off" tabindex="3" class="txtinput">
 			<input type="tel" name="telephone" id="telephone" placeholder="Telefono" tabindex="4" class="txtinput">
-			<textarea name="message" id="message" placeholder="Comentario" tabindex="5" class="txtblock"></textarea>
+			<textarea name="message" id="message" placeholder="Mensaje" tabindex="5" class="txtblock"></textarea>
+			</section>
+			<section id="aside" class="clearfix">
+				<section id="recipientcase">
+				<h3>Ubicacion:</h3>
+Xalapeños Ilustres #164 bis.<br>
+Centro. C. P. 91000.<br>
+Tel. (228) 8 41 56 61 y 8 41 17 18.<br>
+Xalapa, Veracruz.<br>
+email:direccion@grupo‐habitat.com<br>
+ventas@grupo‐habitat.com
+				</section>
+			</section>
 		</div>
 		<section id="buttons">
 			<input type="reset" name="reset" id="resetbtn" class="resetbtn" value="Reset">
 			<input type="submit" name="submit" id="submitbtn" class="submitbtn" tabindex="7" value="Enviar !">
 			<br style="clear:both;">
 		</section>
-		<section>
-			<p>
-				Xalapeños Ilustres #164 bis.<br>
-				Centro. C. P. 91000<br>
-				Tel. (228) 8 41 56 61 y 8 41 17 18<br>
-				Xalapa, Veracruz<br>
-				email:direccion@grupo‐habitat.com<br>
-				ventas@grupo‐habitat.com<br>
-				www.grupo‐habitat.com
-			</p>
-		</section>
 		</form>
-	</section>
-	<section>
-		<div>
-		</div>
 	</section>
 
 	<footer id="footer" class="footer">

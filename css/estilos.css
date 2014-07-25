@@ -58,7 +58,7 @@ a{
 }
 a:-webkit-any-link{
 	color: webkit-link;
-	text-decoration: underline;
+	text-decoration: none;
 	cursor: auto;
 }
 div{
