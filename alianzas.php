@@ -48,7 +48,31 @@
 	</header>
 
 	<section>
-		NUESTRO GRUPO DE EMPRESAS ALIANZADAS
+		Nuestro Grupo De Empresas Alianzadas
+	</section>
+
+	<section id="contenido">
+		<article class="post">
+			<div class="post-cajon">
+				<div class="post-contenido">
+					<p id="tras"><strong>Unidad Verificadora SIGLO XXI</strong></p>
+						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_1.png"/></a>
+						La unidad de verificación UV Siglo XXI es una organización concebida 
+						por la necesidad de la industria de tener una opción para cumplir con 
+						las normas de la Secretaría del Trabajo y Previsión Social sin afectar 
+						la continuidad de los procesos productivos, proporcionando otra alternativa 
+						que se adapta a los tiempos y necesidades de producción y de la disponibilidad 
+						de sus equipos.
+
+					<p id="tras"><strong>Enlace Laboral</strong></p>
+						<a href="" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_2.png"/></a>
+
+					<p id="tras"><strong>Laboratorios ABC</strong></p>
+						<a href="" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_3.png"/></a>
+
+				</div>
+			</div>
+		</article>
 	</section>
 
 	<footer id="footer" class="footer">

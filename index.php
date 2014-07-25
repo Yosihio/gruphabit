@@ -10,7 +10,6 @@
 	<link rel="stylesheet" href="css/estilos.css" />
 	<script src="js/prefixfree.js"></script>
 
-
 </head>
 <body onload="Slider();">
 
@@ -49,7 +48,6 @@
 		</div>	
 	</header>
 
-
 	<section id="noticias">
 		<div class="slider">
 			<img id="1" src="img/slider/nature.jpg" border="0" alt="captions"/>
@@ -59,6 +57,31 @@
 		</div>
 	</section>
 
+<section id="contenido">
+		<article class="post">
+			<div class="post-cajon">
+				<div class="post-contenido">
+					<p id="tras"><strong>Estamos Certificados En ISO 9001:2008</strong></p>
+						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
+							<img id="tam" src="img/Screenshot_4.png"/>
+						</a>
+					<p id="tras"><strong>Contamos Con Registros En:</strong></p>
+						<a href="" target="_blank" rel="nofollow">
+							<img id="tam" src="img/ema.jpg"/>
+						</a>
+						<a href="" target="_blank" rel="nofollow">
+							<img id="tam" src="img/Screenshot_5.png"/>
+						</a>
+						<a href="" target="_blank" rel="nofollow">
+							<img id="tam" src="img/Screenshot_6.png"/>
+						</a>
+						<a href="" target="_blank" rel="nofollow">
+							<img id="tam" src="img/proteccion-civil.png"/>
+						</a>
+				</div>
+			</div>
+		</article>
+	</section>
 
 	<section id="colaboradores" class="colaboradores">
 		<div class="contenedor caja-interna">

@@ -240,6 +240,12 @@ ul{
 .selected a{
 	color: #CAF4E0;
 }
+#tam{
+	max-width: 200px;
+	max-height: 200px;
+	display:block;
+	margin:0 auto 0 auto;
+}
 
 @keyframes slidein {
   from {
