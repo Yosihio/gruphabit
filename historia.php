@@ -47,6 +47,37 @@
 		</div>	
 	</header>
 
+	<section id="contenido">
+		<article class="post">
+			<div class="post-cajon">
+				<div class="post-contenido">
+
+					<p id="histo">
+						Somos una empresa dedicada a proteger el medio ambiente, a través de métodos 
+						técnico-científicos y en la aplicación del marco jurídico, contribuyendo al 
+						éxito de nuestros clientes proporcionándoles soluciones integrales, con base 
+						en nuestro equipo técnico y humano perfectamente capacitado, motivado y comprometido.
+<br/>
+<br/>
+						De tal manera, que en septiembre de 1997 se inicia Hábitat, 
+						comprometida con la conservación del medio ambiente y 
+						respaldados por los éxitos y logros obtenidos en nuestras 
+						actividades.
+<br/>
+<br/>
+						A partir del año 2003, consolidamos la creación y operación de 
+						GRUPO AMBIENTAL HÁBITAT, S. A. DE C. V., ante las autoridades 
+						correspondientes, con el único objetivo de proteger el medio 
+						ambiente ampliando nuestro catálogo de servicios a través 
+						de métodos técnico-científicos y en la aplicación del marco jurídico 
+						ambiental, contribuyendo al éxito de nuestros clientes al 
+						proporcionarles soluciones integrales con base en nuestro equipo 
+						técnico y humano perfectamente capacitado, motivado y comprometido.
+					</p>
+				</div>
+			</div>
+		</article>
+	</section>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">

@@ -69,12 +69,15 @@
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/ema.jpg"/>
 						</a>
+						<br/>
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_5.png"/>
 						</a>
+						<br/>
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_6.png"/>
 						</a>
+						<br/>
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/proteccion-civil.png"/>
 						</a>

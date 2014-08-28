@@ -64,9 +64,6 @@
 						que se adapta a los tiempos y necesidades de producción y de la disponibilidad 
 						de sus equipos.
 
-					<p id="tras"><strong>Enlace Laboral</strong></p>
-						<a href="" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_2.png"/></a>
-
 					<p id="tras"><strong>Laboratorios ABC</strong></p>
 						<a href="" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_3.png"/></a>
 
