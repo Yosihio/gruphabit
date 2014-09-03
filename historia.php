@@ -18,7 +18,7 @@
 		<div id="div_logo">
 			<figure id="logo">
 				<a href="index.php">
-				<img src="img/habitat.png" />
+				<img src="img/congaviota.png" />
 				</a>
 			</figure>
 			<h1>
