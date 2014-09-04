@@ -102,12 +102,6 @@
 				<a href="http://www.cfe.gob.mx/" target="_blank" rel="nofollow" title="CFE" class="sponsor">
 					<img src="img/cfe.png" alt="CFE" height="50">
 				</a>
-				<a href="#" target="_blank" rel="nofollow" title="DCS" class="sponsor">
-					<img src="img/dcs.png" alt="DCS" height="50">
-				</a>
-				<a href="http://www.dssp.com.mx/" target="_blank" rel="nofollow" title="DS Servicios Petroleros" class="sponsor">
-					<img src="img/DS.png" alt="DS Servicios Petroleros" height="50">
-				</a>
 				<a href="http://www.agroindustriasmexico.com.mx/" target="_blank" rel="nofollow" title="Agroindustrias Unidas de México" class="sponsor">
 					<img src="img/Empre.png" alt="Agroindustrias Unidas de México" height="50">
 				</a>
@@ -143,9 +137,6 @@
 				</a>
 				<a href="http://www.vopak.com/" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
 					<img src="img/vopak.png" alt="Vopak" height="50">
-				</a>
-				<a href="#" target="_blank" rel="nofollow" title="Voya.Ger" class="sponsor">
-					<img src="img/voya ge.png" alt="Voya.Ger" height="50">
 				</a>
 			</div>
 		</div>

@@ -18,7 +18,7 @@
 		<div id="div_logo">
 			<figure id="logo">
 				<a href="index.php">
-				<img src="img/habitat.png" />
+				<img src="img/congaviota.png" />
 				</a>
 			</figure>
 			<h1>
@@ -58,12 +58,12 @@
 					<p>
 						-Manifiestos de Impacto Ambiental.<br>
 						-Estudios de Riesgos.<br>
-						-COA.<br>
-						-LAU.<br>
-						-LAF.<br>
+						-Cedula de Operación Anual (COA).<br>
+						-Licencia Ambiental Única (LAU) Federal.<br>
+						-Licencia Ambiental de Funcionamiento (LAF) Esraral.<br>
 						-Registro como empresa generadora de residuos peligrosos.<br>
 						-Registro como empresa generadora de residuos de manejo especial.<br>
-						-Estudios Técnicos Justificativos ante CONAFOR (Cambio de uso de suelo).<br>
+						-Cambio de uso de suelo.<br>
 						-Planes de manejo de residuos.<br>
 						-Atlas de Riesgos.<br>
 						-Dictamen de Factibilidad Regional ante INVIVIENDA.<br>
@@ -88,7 +88,6 @@
 						-Capacitación en materia de Prevención y Combate de Incendios, Búsqueda y Rescate, Riesgos de trabajo, Manejo de Sustancias Químicas, Manejo de Residuos.<br> 
 						-Conformación de la comisión mixta de seguridad e higiene.<br>
 						-Respuesta a actos de molestia o visitas de la STPS.<br>
-						-Evaluaciones por NOM de la STPS.<br>
 						-Estudios de grado de riesgo de incendio.
 					</p>
 				</div>
@@ -107,8 +106,6 @@
 						-Estudio de grado de Iluminación en las áreas de trabajo.<br>
 						-Programa anual de capacitación.<br>
 						-Supervisiones técnicas de cumplimiento de la normatividad.<br>
-						-Historias clínicas para los trabajadores.<br>
-						-Medicina del trabajo.<br>
 						-Conformación de la unidad local de protección civil.<br>
 						-Verificación del uso del equipo de protección personal.<br>
 						-Programas de identificación de riesgo en maquinaria y equipo.<br>
@@ -159,7 +156,7 @@
 				<div class="post-contenido">
 					<p id="tras"><strong>EQUIPO DE PROTECCIÓN PERSONAL E INDUSTRIAL</strong></p>
 					<p>
-						s
+						
 					</p>
 				</div>
 			</div>

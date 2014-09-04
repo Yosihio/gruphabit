@@ -118,7 +118,7 @@ header #logo img
 	-ms-transform: rotate(90deg);*/
 	/*-webkit-transition:.5s;*/
 	transition:.5s;
-	width: 52px;
+	width: 80px;
 }
 header #logo img:hover{
 	/*-webkit-transform: rotate(360deg);*/
