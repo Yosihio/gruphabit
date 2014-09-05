@@ -47,10 +47,6 @@
 		</div>	
 	</header>
 
-	<section>
-		Nuestro Grupo De Empresas Alianzadas
-	</section>
-
 	<section id="contenido">
 		<article class="post">
 			<div class="post-cajon">

@@ -15,7 +15,7 @@
         <div class="container">
             <div class="codrops-top">
                 <a href="index.php">
-                    <strong>&laquo; Grupo Ambiental Habitat </strong>S. A. de C. V. © 2013
+                    <strong>&laquo; Grupo Ambiental Habitat </strong>S. A. de C. V. © 2014
                 </a>
                 <span class="right">
                     <a href="index.php">

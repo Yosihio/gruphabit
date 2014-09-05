@@ -63,7 +63,7 @@
 				<div class="post-contenido">
 					<p id="tras"><strong>Estamos Certificados En ISO 9001:2008</strong></p>
 						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
-							<img id="tam" src="img/Screenshot_4.png"/>
+							<img id="tam" src="img/ISOS.jpg"/>
 						</a>
 					<p id="tras"><strong>Contamos Con Registros En:</strong></p>
 						<a href="" target="_blank" rel="nofollow">
@@ -137,6 +137,43 @@
 				</a>
 				<a href="http://www.vopak.com/" target="_blank" rel="nofollow" title="Vopak" class="sponsor">
 					<img src="img/vopak.png" alt="Vopak" height="50">
+				</a>
+				<a href="http://induagro.com.mx/HOMEAP/HOMEAP.html" target="_blank" rel="nofollow" title="Aceites De Palma" class="sponsor">
+					<img src="img/aceite.png" alt="Aceites De Palma" height="50">
+				</a>
+				</a>
+				<a href="http://www.marinoil.com.mx/es/" target="_blank" rel="nofollow" title="Marinoil" class="sponsor">
+					<img src="img/c7.jpg" alt="Marinoil" height="50">
+				</a>
+				</a>
+				<a href="http://www.grupocice.com/principal/" target="_blank" rel="nofollow" title="Grupo CICE" class="sponsor">
+					<img src="img/cice.jpg" alt="Grupo CICE" height="50">
+				</a>
+				</a>
+				<a href="http://www.puertocoatzacoalcos.com.mx/" target="_blank" rel="nofollow" title="API Coatzacoalcos" class="sponsor">
+					<img src="img/Coatzacoalcos.jpg" alt="API Coatzacoalcos" height="50">
+				</a>
+				</a>
+				<a href="http://www.dumex.com.my/" target="_blank" rel="nofollow" title="Dumex" class="sponsor">
+					<img src="img/Dumex.png" alt="Dumex" height="50">
+				</a>
+				</a>
+				<a href="http://www.gruges.com.mx/ges.asp" target="_blank" rel="nofollow" title="Grupo Energetico Del Sureste" class="sponsor">
+					<img src="img/logoest.png" alt="Grupo Energetico Del Sureste" height="50">
+				</a>
+				</a>
+				<a href="http://www.hotelxalapa.com.mx/" target="_blank" rel="nofollow" title="Hotel Xalapa" class="sponsor">
+					<img src="img/hotelxapala.jpg" alt="Hotel Xalapa" height="50">
+				</a>
+				</a>
+				<a href="http://www.servifacil.com.mx/" target="_blank" rel="nofollow" title="ServiFacil" class="sponsor">
+					<img src="img/Servifacil.png" alt="ServiFacil" height="50">
+				</a>
+				<a href="" target="_blank" rel="nofollow" title="Fortín de las Flores" class="sponsor">
+					<img src="img/FortinAyuntamiento.jpg" alt="Fortín de las Flores" height="50">
+				</a>
+				<a href="" target="_blank" rel="nofollow" title="Ayuntamiento de Orizaba" class="sponsor">
+					<img src="img/descarga.jpg" alt="Ayuntamiento de Orizaba" height="50">
 				</a>
 			</div>
 		</div>

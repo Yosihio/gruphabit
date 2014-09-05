@@ -47,17 +47,14 @@
 		</div>	
 	</header>
 
-	<section>
-	tabla de busqueda
-	</section>
 	<section id="contenido">
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
 					<p id="tras"><strong>AMBIENTAL (UVPROFEPA 072) </strong></p>
 					<p>
-						-Manifiestos de Impacto Ambiental.<br>
-						-Estudios de Riesgos.<br>
+						-Manifiestos de Impacto Ambiental Estatal y Federal.<br>
+						-Estudios de Riesgos Estatal y Federal.<br>
 						-Cedula de Operación Anual (COA).<br>
 						-Licencia Ambiental Única (LAU) Federal.<br>
 						-Licencia Ambiental de Funcionamiento (LAF) Esraral.<br>
@@ -150,18 +147,7 @@
 			</div>
 		</article>
 	</section>
-	<section id="contenido">
-		<article class="post">
-			<div class="post-cajon">
-				<div class="post-contenido">
-					<p id="tras"><strong>EQUIPO DE PROTECCIÓN PERSONAL E INDUSTRIAL</strong></p>
-					<p>
-						
-					</p>
-				</div>
-			</div>
-		</article>
-	</section>
+
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">
