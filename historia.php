@@ -53,26 +53,26 @@
 				<div class="post-contenido">
 
 					<p id="histo">
-						Somos una empresa dedicada a proteger el medio ambiente, a través de métodos 
-						técnico-científicos y en la aplicación del marco jurídico, contribuyendo al 
-						éxito de nuestros clientes proporcionándoles soluciones integrales, con base 
-						en nuestro equipo técnico y humano perfectamente capacitado, motivado y comprometido.
-<br/>
-<br/>
-						De tal manera, que en septiembre de 1997 se inicia Hábitat, 
-						comprometida con la conservación del medio ambiente y 
-						respaldados por los éxitos y logros obtenidos en nuestras 
-						actividades.
-<br/>
-<br/>
-						A partir del año 2003, consolidamos la creación y operación de 
-						GRUPO AMBIENTAL HÁBITAT, S. A. DE C. V., ante las autoridades 
-						correspondientes, con el único objetivo de proteger el medio 
-						ambiente ampliando nuestro catálogo de servicios a través 
-						de métodos técnico-científicos y en la aplicación del marco jurídico 
-						ambiental, contribuyendo al éxito de nuestros clientes al 
-						proporcionarles soluciones integrales con base en nuestro equipo 
-						técnico y humano perfectamente capacitado, motivado y comprometido.
+<br>
+<br>
+				Hábitat surge en septiembre de 1997, a partir de la necesidad de crear una empresa 
+				dedicada a realizar estudios técnicos que apoyen a la conservación de los recursos 
+				naturales que pueden ser impactados por actividades industriales, comerciales o de 
+				servicios. Concientes de esta controversia, se conforma un grupo de especialistas 
+				de varias ramas ambientales, con el fin de analizar los impactos ambientales y 
+				proponer medidas para su mitigación.
+<br>
+<br>
+				A partir del año 2003, consolidamos la creación y operación de Grupo Ambiental 
+				Hábitat, S.A. de C.V., ante las autoridades correspondientes, asegurando el mismo 
+				objetivo de proteger al medio ambiente, ampliando nuestro catálogo de servicios a 
+				través de métodos técnico-científicos y la aplicación del marco jurídico ambiental.
+<br>
+<br>
+				Al mismo tiempo, contribuyendo al éxito de nuestros clientes al proporcionarles 
+				soluciones integrales con base en nuestro equipo técnico y humano perfectamente 
+				capacitado, motivado y comprometido.
+
 					</p>
 				</div>
 			</div>

@@ -52,27 +52,47 @@
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p id="tras"><strong>Misión</strong></p>
-					<p>Somos una empresa dedicada a proteger el medio ambiente, a través de métodos 
-						técnico-científicos y en la aplicación del marco jurídico, contribuyendo al 
-						éxito de nuestros clientes proporcionándoles soluciones integrales, con base 
-						en nuestro equipo técnico y humano perfectamente capacitado, motivado y comprometido.
+					<p id="tras"><img src="img/parallax/mision oja.png"><strong>Misión</strong></p>
+					<p>
+						Proporcionar servicios de la mejor calidad en materia de seguridad, higiene y medio 
+						ambiente de trabajo así como la preservación del ambiente, a organizaciones industriales 
+						y no industriales con precios competitivos, y siempre contando con equipo técnico y 
+						humano, perfectamente capacitado y reconocido por dependencias involucradas en la 
+						materia, proporcionandole oportunidades de progreso y desarrollo profesional.<br>
+						<img src="img/parallax/misionabajo.png">
 					</p>
-					<p id="tras"><strong>Visión</strong></p>
-					<p>Mejorar y mantener el desarrollo sustentable, enfatizando en la protección del 
-						medio ambiente para optimizar los recursos naturales del país, consolidando la 
-						preferencia de nuestros clientes por la excelencia de los servicios ambientales 
-						que les proporcionamos.
+					<p id="tras"><img src="img/parallax/vision hoja.png"><strong>Visión</strong></p>
+					<p>
+						Consolidar nuestra presencia comercial en el mercado del sureste del país, y 
+						reforzar la expansión hasta otras regiones, fortalecer o incrementar el numero 
+						de presonal técnico capacitado, acreditado y aprobado elevando así el nivel de 
+						calidad de nuestros trabajos, generando ideas y estrategiasque nos hagan crecer 
+						y contribuir al mejor desempeño de nuestros clientes dándoles soluciones integrales 
+						en base a nuestro equipo técnico y humano perfectamente capacitado, motivado y 
+						comprometido en materia ambiental, seguridad e higiene del trabajo y medio 
+						ambiente laboral.<br>
+						<img src="img/parallax/visionabajo.png">
 					</p>
-					<p id="tras"><strong>Política</strong></p>
-					<p>El éxito de nuestra empresa depende de la preferencia y la satisfacción de nuestros 
-						clientes al ofrecerles soluciones con un nivel de calidad que rebase sus espectativas, 
-						por ello nos comprometemos a mejorar continuamente nuestra organizacion , así 
-						como a preservar nuestro medio ambiente.
+					<p id="tras"><img src="img/parallax/valores hoja.png"><strong>Valores</strong></p>
+					<p>
+						Estamos concientes de que para ofrecer un servicio de alta calidad, así como aumentar 
+						nuestra productividad es necesario fomentar valores en nuestro personal teles como:<br>
+						Honestidad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Independencia<br>
+						Responsabilidad  &nbsp &nbsp &nbsp &nbsp &nbsp Compromiso<br>
+						Integridad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Veracidad<br>
+						Imparticialidad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Confidencialidad<br>
+						<img src="img/parallax/valoresabajo.png">
 					</p>
-					<p id="tras"><strong>Valores</strong></p>
-					<p>Estamos concientes de que para ofrecer un servicio de calidad así como aumentar 
-						nuestra productividad, es necesario fomentar valores de nuestro personal tales como:
+					<p id="tras"><img src="img/parallax/CALIDAD hoja.jpg"><strong>Calidad</strong></p>
+					<p>
+						El éxito de nuestra empresa depende de la Preferencia y satisfacción de nuestros 
+						clientes al ofrecerles soluciones de asesoría ambiental y de seguridad e  higiene, 
+						con un nivel de calidad que rebase sus expectativas, para ello nos comprometemos a 
+						mejorar continuamente, contando con personal altamente capacitado y comprometido en 
+						el desarrollo de su trabajo, así como a preservar nuestro medio ambiente en estricto 
+						cumplimiento de los requisitos normativos y referenciales en apego a los criterios 
+						aplicables para la operación de la organización y de aplicación de nuestros servicios.<br>
+						<img src="img/parallax/calidadabajo.png">
 					</p>
 				</div>
 			</div>

@@ -59,10 +59,13 @@
 						la continuidad de los procesos productivos, proporcionando otra alternativa 
 						que se adapta a los tiempos y necesidades de producción y de la disponibilidad 
 						de sus equipos.
-
 					<p id="tras"><strong>Laboratorios ABC</strong></p>
-						<a href="" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_3.png"/></a>
-
+						<a href="http://www.grupoanaliticoabc.com.mx/index.php?itemid=13" target="_blank" rel="nofollow"><img id="tam" src="img/Screenshot_3.png"/></a>
+						Laboratorios ABC cuenta con la red de laboratorios en materia de química analítica, 
+						ambiental, higiene industrial y área de investigación y desarrollo de método analíticos, 
+						más grande de América Latina. Con más de 40 años de experiencia, buscamos ofrecer resultados 
+						confiables y legalmente defendibles, con un servicio que exceda las expectativas de nuestros 
+						clientes, usando la mejor tecnología y los recursos humanos del país en el que operemos.
 				</div>
 			</div>
 		</article>
