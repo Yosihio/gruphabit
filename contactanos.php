@@ -37,12 +37,12 @@
 		<div id="div_menu">	
 			<nav>
 				<ul>
-					<li class="selected"><a href="quienes.php">¿Quienes somos?</a></li>
+					<li ><a href="quienes.php">¿Quienes somos?</a></li>
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
-					<li><a href="login.php">Login</a></li>
+					<li class="selected"><a href="contactanos.php">Contactanos</a></li>
+					<li ><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
 		</div>	
