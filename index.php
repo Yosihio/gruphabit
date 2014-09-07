@@ -12,7 +12,7 @@
 
 </head>
 <body onload="Slider();">
-
+<div id="colorson">
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
@@ -63,11 +63,11 @@
 				<div class="post-contenido">
 					<p id="tras"><strong>Estamos Certificados En ISO 9001:2008</strong></p>
 						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
-							<img id="tam" src="img/ISOS.jpg"/>
+							<img id="tam" src="img/ISOS.png"/>
 						</a>
 					<p id="tras"><strong>Contamos Con Registros En:</strong></p>
 						<a href="" target="_blank" rel="nofollow">
-							<img id="tam" src="img/ema.jpg"/>
+							<img id="tam" src="img/ema.png"/>
 						</a>
 						<br/>
 						<a href="" target="_blank" rel="nofollow">
@@ -143,15 +143,15 @@
 				</a>
 				</a>
 				<a href="http://www.marinoil.com.mx/es/" target="_blank" rel="nofollow" title="Marinoil" class="sponsor">
-					<img src="img/c7.jpg" alt="Marinoil" height="50">
+					<img src="img/c7.png" alt="Marinoil" height="50">
 				</a>
 				</a>
 				<a href="http://www.grupocice.com/principal/" target="_blank" rel="nofollow" title="Grupo CICE" class="sponsor">
-					<img src="img/cice.jpg" alt="Grupo CICE" height="50">
+					<img src="img/cice.png" alt="Grupo CICE" height="50">
 				</a>
 				</a>
 				<a href="http://www.puertocoatzacoalcos.com.mx/" target="_blank" rel="nofollow" title="API Coatzacoalcos" class="sponsor">
-					<img src="img/Coatzacoalcos.jpg" alt="API Coatzacoalcos" height="50">
+					<img src="img/Coatzacoalcos.png" alt="API Coatzacoalcos" height="50">
 				</a>
 				</a>
 				<a href="http://www.dumex.com.my/" target="_blank" rel="nofollow" title="Dumex" class="sponsor">
@@ -163,17 +163,17 @@
 				</a>
 				</a>
 				<a href="http://www.hotelxalapa.com.mx/" target="_blank" rel="nofollow" title="Hotel Xalapa" class="sponsor">
-					<img src="img/hotelxapala.jpg" alt="Hotel Xalapa" height="50">
+					<img src="img/hotelxapala.png" alt="Hotel Xalapa" height="50">
 				</a>
 				</a>
 				<a href="http://www.servifacil.com.mx/" target="_blank" rel="nofollow" title="ServiFacil" class="sponsor">
 					<img src="img/Servifacil.png" alt="ServiFacil" height="50">
 				</a>
 				<a href="" target="_blank" rel="nofollow" title="Fortín de las Flores" class="sponsor">
-					<img src="img/FortinAyuntamiento.jpg" alt="Fortín de las Flores" height="50">
+					<img src="img/FortinAyuntamiento.png" alt="Fortín de las Flores" height="50">
 				</a>
 				<a href="" target="_blank" rel="nofollow" title="Ayuntamiento de Orizaba" class="sponsor">
-					<img src="img/descarga.jpg" alt="Ayuntamiento de Orizaba" height="50">
+					<img src="img/descarga.png" alt="Ayuntamiento de Orizaba" height="50">
 				</a>
 			</div>
 		</div>
@@ -195,5 +195,6 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+</div>
 </body>
 </html>

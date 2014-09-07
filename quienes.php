@@ -13,7 +13,7 @@
 
 </head>
 <body onload="Slider();">
-
+<div id="colorson">
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
@@ -83,7 +83,7 @@
 						Imparticialidad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Confidencialidad<br>
 						<img src="img/parallax/valoresabajo.png">
 					</p>
-					<p id="tras"><img src="img/parallax/CALIDAD hoja.jpg"><strong>Calidad</strong></p>
+					<p id="tras"><img src="img/parallax/CALIDAD hoja.png"><strong>Calidad</strong></p>
 					<p>
 						El éxito de nuestra empresa depende de la Preferencia y satisfacción de nuestros 
 						clientes al ofrecerles soluciones de asesoría ambiental y de seguridad e  higiene, 
@@ -114,5 +114,6 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+</div>
 </body>
 </html>

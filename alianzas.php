@@ -13,7 +13,7 @@
 
 </head>
 <body onload="Slider();">
-
+<div id="colorson">
 	<header>
 		<div id="div_logo">
 			<figure id="logo">
@@ -86,5 +86,6 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+</div>
 </body>
 </html>

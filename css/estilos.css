@@ -222,6 +222,7 @@ ul{
 .post-cajon{
 	margin: 0 auto;
 	max-width: 800px;
+/*	background-color: white;  */
 }
 .post-contenido{
 	font-family: 'Crimson Text',serif;
@@ -352,7 +353,10 @@ ul{
 		max-width: 100%;
 		max-height: auto;
 	}
-}
+} 
+#colorson{
+	background-image: url(../img/parallax/texture04.jpg);
+} 
 <<<<<<< HEAD
 .slider{
 	width: 100%;

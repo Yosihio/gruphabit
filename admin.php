@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -6,14 +7,42 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Login and Registration Form with HTML5 and CSS3" />
         <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
         <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/animate-custom.css" />
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
     </head>
 <body>
-            <nav>
-                <a href="alusuario.php">Alta Usuario</a>
-                <a href="audocumen.php">Subir Documento</a>
-                <a href="eldocumen.php">Eliminar Documento</a>
-            </nav>
+<div class="container">
+            <div class="codrops-top">
+                <a href="index.php">
+                    <strong>&laquo; Grupo Ambiental Habitat </strong>S. A. de C. V. © 2014
+                </a>
+                <span class="right">
+                    <a href="admin.php">
+                        <strong>Regresar Al Menu</strong>
+                    </a>
+                </span>
+                <div class="clr"></div>
+            </div>
+    <header>
+        <h1>Bienvenido <span>Al Sistema Grupo Ambiental Habitat</span></h1>
+    </header>
+    <section>               
+        <div id="container_demo" >
+            <a class="hiddenanchor" id="toregister"></a>
+            <a class="hiddenanchor" id="tologin"></a>
+            <div id="wrapper">
+               <div id="login" class="animate form">
+                    <form  action="" autocomplete="on" method="post"> 
+                            <a id="adminsu" href="alusuario.php" text-decoration="none">Alta De Usuarios</a>
+                            <a id="adminsu" href="audocumen.php">Subir Documento</a>
+                            <a id="adminsu" href="eldocumen.php">Eliminar Documento</a>
+                    </form>
+                </div>                      
+            </div>
+        </div>  
+    </section>
+</div>
 </body>
 </html>
