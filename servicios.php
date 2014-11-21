@@ -40,7 +40,7 @@
 					<li class="selected"><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
@@ -54,10 +54,11 @@
 					<p id="tras"><strong>AMBIENTAL (UVPROFEPA 072) </strong></p>
 					<p>
 						-Manifiestos de Impacto Ambiental Estatal y Federal.<br>
-						-Estudios de Riesgos Estatal y Federal.<br>
+						-Estudios de Riesgos Federal.<br>
+                        -Estudios de Riesgos Estatal.<br>
 						-Cedula de Operación Anual (COA).<br>
 						-Licencia Ambiental Única (LAU) Federal.<br>
-						-Licencia Ambiental de Funcionamiento (LAF) Esraral.<br>
+						-Licencia Ambiental de Funcionamiento (LAF) Estatal.<br>
 						-Registro como empresa generadora de residuos peligrosos.<br>
 						-Registro como empresa generadora de residuos de manejo especial.<br>
 						-Cambio de uso de suelo.<br>
@@ -118,7 +119,7 @@
 				<div class="post-contenido">
 					<p id="tras"><strong>CALDERAS, RECIPIENTES SUJETOS A PRESIÓN Y CRIOGÉNICOS</strong></p>
 					<p>
-						-Verificación de la NOM-020-STPS 2010 para recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
+						-Verificación de la NOM-020-STPS 2011 para recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
 						-Prueba hidrostática.<br>
 						-Ensayos no destructivos.<br>
 						-Elaboración de planos, manuales, bitácoras de los recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
@@ -148,6 +149,8 @@
 		</article>
 	</section>
 
+	<div style="background:url('/img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">

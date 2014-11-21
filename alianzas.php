@@ -40,7 +40,7 @@
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li class="selected"><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
@@ -66,10 +66,27 @@
 						más grande de América Latina. Con más de 40 años de experiencia, buscamos ofrecer resultados 
 						confiables y legalmente defendibles, con un servicio que exceda las expectativas de nuestros 
 						clientes, usando la mejor tecnología y los recursos humanos del país en el que operemos.
+					<p id="tras"><strong>Colegios de Abogados Ambientalistas A.C.</strong></p>
+						<a href="http://www.grupoanaliticoabc.com.mx/index.php?itemid=13" target="_blank" rel="nofollow"><img id="tam" src="img/cca.jpg"/></a>
+						Representamos y defendemos a su empresa en inspecciones de autoridades como:<br>
+							-PROFEPA<br>
+							-CNA<br>
+							-PROFECO<br>
+							-ZOFEMAT<br>
+							-SA<br>
+							-PROTECCION CIVIL<br>
+							-STPS<br>
+							-COORDINACION ESTATAL DE MEDIO AMBIENTE<br>
+							-SS<br>
+							-SERVICIOS COORDINADOS DE SALUD<br>
+							-SECOFI<br>
 				</div>
 			</div>
 		</article>
 	</section>
+
+	<div style="background:url('/img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">

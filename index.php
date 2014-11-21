@@ -39,7 +39,7 @@
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
@@ -88,7 +88,7 @@
 
 	<section id="colaboradores" class="colaboradores">
 		<div class="contenedor caja-interna">
-			<h3 class="proveedor font-proveed">Somos Proveedores De Servicios De:</h3>
+			<h3 class="proveedor font-proveed">Nuestros clientes son:</h3>
 			<div class="logotipos">
 				<a href="http://www.acuariodeveracruz.com/" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
 					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="50">
@@ -179,6 +179,8 @@
 		</div>
 	</section>
 
+	<div style="background:url('/img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">

@@ -40,7 +40,7 @@
 					<li><a href="servicios.php">Servicios</a></li>
 					<li class="selected"><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
@@ -78,6 +78,9 @@
 			</div>
 		</article>
 	</section>
+
+	<div style="background:url('/img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
     	<div class="fcontenido">
