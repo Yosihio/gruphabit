@@ -1,4 +1,4 @@
-function Slider(){
+/*function Slider(){
 	$(".slider #1").show("fade",500);
 	$(".slider #1").delay(5500).hide("slide",{direction: 'left'},500);
 
@@ -15,7 +15,7 @@ function Slider(){
 			count = count + 1;
 		}
 	},6500);
-}
+}*/
 $('.item').hover(
 	function(){
     	var $this = $(this);
