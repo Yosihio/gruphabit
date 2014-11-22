@@ -12,7 +12,7 @@
 
 
 </head>
-<body onload="Slider();">
+<body>
 <div id="colorson">
 	<header>
 		<div id="div_logo">
@@ -22,15 +22,7 @@
 				</a>
 			</figure>
 			<h1>
-				Grupo Ambiental Hábitat &nbsp &nbsp &nbsp
-				<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
-					<img src="icoms/LinkedInOut.png" width="40" height="40" onMouseOver="this.src='icoms/LinkedInOver.png';" onMouseOut="this.src='icoms/LinkedInOut.png';"/>
-				</a>
-				&nbsp
-            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
-            		<img src="icoms/FacebookOut.png" width="40" height="40" onMouseOver="this.src='icoms/FacebookOver.png';" onMouseOut="this.src='icoms/FacebookOut.png';" />
-            	</a>
-            	&nbsp
+				Grupo Ambiental Hábitat
 			</h1>
 		</div>
 		<div id="div_menu">	
@@ -99,17 +91,46 @@
 		</article>
 	</section>
 
-	<div style="background:url('/img/svg/grass1.svg'); height:50px;">
+	<div style="background:url('img/svg/grass1.svg'); height:50px;">
 	</div>
 
 	<footer id="footer" class="footer">
-    	<div class="fcontenido">
+		<div style="width:25%; float:left;">
+			<p><strong>Contacto</strong></p>
+			<ul>
+				<li>(228) 8 41 56 61</li>
+				<li>(228) 8 41 17 18</li>
+				<li>direccion@grupo‐habitat.com</li>
+				<li>ventas@grupo‐habitat.com</li>
+			</ul>
+		</div>
+		<div style="width:25%; float:left;">
+			<p><strong>Nuestras redes sociales</strong></p>
+			<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
+				<img src="img/svg/linkedin.svg" width="50" height="50"/>
+			</a>
+			&nbsp
+			&nbsp
+			&nbsp
+	     	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
+	            <img src="img/svg/facebook.svg" width="50" height="50"/>
+	       	</a>
+	           
+		</div>
+		<div style="width:50%; margin-left:50%;">
+			<p><strong>Ubicación</strong></p>
+			<div style="width:50%; float:left;">
+				<ul>
+					<li>Xalapeños Ilustres #164 bis</li>
+					<li>Colonia Centro Histórico</li>
+					<li>C. P. 91000</li>
+					<li>Xalapa, Veracruz</li>
+				</ul>
+			</div>
+			<div id="googleMap" style="width:50%;height:200px;"></div>
+		</div>
+    	<div class="fcontenido" style="margin-top:20px;">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2014</span>
-        	<div class="social">
-            	<div><span>Nos Encuentran En<br></span>
-            		<a href="https://www.google.com.mx/maps/place/Grupo+Ambiental+Habitat,+S.A.+De+C.V./@19.529025,-96.91447,17z/data=!3m1!4b1!4m2!3m1!1s0x85db32023415b1d3:0xfc2e33009f890070" class="icon-map-pin sponsor" target="_blank" rel="nofollow"></a>
-            	</div>
-        	</div>
     	</div>
 	</footer>
 
@@ -117,6 +138,8 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false"></script>
+	<script type="text/javascript" src="js/gmaps.js"></script>
 </div>
 </body>
 </html>
