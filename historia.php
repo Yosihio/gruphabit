@@ -75,7 +75,7 @@
 	</div>
 
 	<footer id="footer" class="footer">
-		<div style="width:25%; float:left;">
+		<div class="footer_div_contacto">
 			<p><strong>Contacto</strong></p>
 			<ul>
 				<li>(228) 8 41 56 61</li>
@@ -84,7 +84,7 @@
 				<li>ventas@grupo‐habitat.com</li>
 			</ul>
 		</div>
-		<div style="width:25%; float:left;">
+		<div class="footer_div_socialmedia">
 			<p><strong>Nuestras redes sociales</strong></p>
 			<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
 				<img src="img/svg/linkedin.svg" width="50" height="50"/>
@@ -97,9 +97,9 @@
 	       	</a>
 	           
 		</div>
-		<div style="width:50%; margin-left:50%;">
+		<div class="footer_div_ubicacion">
 			<p><strong>Ubicación</strong></p>
-			<div style="width:50%; float:left;">
+			<div class="footer_div_direccion">
 				<ul>
 					<li>Xalapeños Ilustres #164 bis</li>
 					<li>Colonia Centro Histórico</li>
@@ -107,7 +107,7 @@
 					<li>Xalapa, Veracruz</li>
 				</ul>
 			</div>
-			<div id="googleMap" style="width:50%;height:200px;"></div>
+			<div class="footer_div_maps" id="googleMap"></div>
 		</div>
     	<div class="fcontenido" style="margin-top:20px;">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2014</span>
