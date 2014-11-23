@@ -240,6 +240,12 @@ ul{
 .logotipos{
 	s
 }
+.img_header{
+	float:left;
+}
+.img_foot{
+	text-align: center
+}
 .post{
 	background: none;
 	color: #515151;
@@ -325,6 +331,9 @@ ul{
 	#noticias, #noticias .slider, #noticias .shadow{
 		max-width: 100%;
 		margin-top:0;
+	}
+	.img_header{
+		display:none;
 	}
 	.footer div{
 		float:none;

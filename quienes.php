@@ -44,16 +44,21 @@
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p id="tras"><img src="img/parallax/mision oja.png" style="width:50px; height:50px;"><strong>Misión</strong></p>
+					<img class="img_header" src="img/parallax/mision oja.png" style="width:50px; height:50px;">
+					<p id="tras"><strong>Misión</strong></p>
 					<p>
 						Proporcionar servicios de la mejor calidad en materia de seguridad, higiene y medio 
 						ambiente de trabajo así como la preservación del ambiente, a organizaciones industriales 
 						y no industriales con precios competitivos, y siempre contando con equipo técnico y 
 						humano, perfectamente capacitado y reconocido por dependencias involucradas en la 
 						materia, proporcionandole oportunidades de progreso y desarrollo profesional.<br>
-						<img src="img/parallax/misionabajo.png" style="width:150px; height:100px;">
 					</p>
-					<p id="tras"><img src="img/parallax/vision hoja.png" style="width:50px; height:50px;"><strong>Visión</strong></p>
+					<div class="img_foot">
+						<img src="img/parallax/misionabajo.png" style="width:150px; height:100px;">
+					</div>
+					<br>
+					<img class="img_header" src="img/parallax/vision hoja.png" style="width:50px; height:50px;">
+					<p id="tras"><strong>Visión</strong></p>
 					<p>
 						Consolidar nuestra presencia comercial en el mercado del sureste del país, y 
 						reforzar la expansión hasta otras regiones, fortalecer o incrementar el numero 
@@ -63,9 +68,13 @@
 						en base a nuestro equipo técnico y humano perfectamente capacitado, motivado y 
 						comprometido en materia ambiental, seguridad e higiene del trabajo y medio 
 						ambiente laboral.<br>
-						<img src="img/parallax/visionabajo.png" style="width:150px; height:100px;">
 					</p>
-					<p id="tras"><img src="img/parallax/valores hoja.png" style="width:50px; height:50px;"><strong>Valores</strong></p>
+					<div class="img_foot">
+						<img src="img/parallax/visionabajo.png" style="width:150px; height:100px;">
+					</div>	
+					<br>
+					<img class="img_header" src="img/parallax/valores hoja.png" style="width:50px; height:50px;">
+					<p id="tras"><strong>Valores</strong></p>
 					<p>
 						Estamos concientes de que para ofrecer un servicio de alta calidad, así como aumentar 
 						nuestra productividad es necesario fomentar valores en nuestro personal teles como:<br>
@@ -73,9 +82,13 @@
 						Responsabilidad  &nbsp &nbsp &nbsp &nbsp &nbsp Compromiso<br>
 						Integridad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Veracidad<br>
 						Imparticialidad &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Confidencialidad<br>
-						<img src="img/parallax/valoresabajo.png" style="width:150px; height:100px;">
 					</p>
-					<p id="tras"><img src="img/parallax/CALIDAD hoja.png" style="width:50px; height:50px;"><strong>Calidad</strong></p>
+					<div class="img_foot">
+						<img  src="img/parallax/valoresabajo.png" style="width:150px; height:100px;">
+					</div>
+					<br>
+					<img class="img_header" src="img/parallax/CALIDAD hoja.png" style="width:50px; height:50px;">
+					<p id="tras"><strong>Calidad</strong></p>
 					<p>
 						El éxito de nuestra empresa depende de la Preferencia y satisfacción de nuestros 
 						clientes al ofrecerles soluciones de asesoría ambiental y de seguridad e  higiene, 
@@ -83,9 +96,11 @@
 						mejorar continuamente, contando con personal altamente capacitado y comprometido en 
 						el desarrollo de su trabajo, así como a preservar nuestro medio ambiente en estricto 
 						cumplimiento de los requisitos normativos y referenciales en apego a los criterios 
-						aplicables para la operación de la organización y de aplicación de nuestros servicios.<br>
-						<img src="img/parallax/calidadabajo.png" style="width:150px; height:100px;">
+						aplicables para la operación de la organización y de aplicación de nuestros servicios.
 					</p>
+					<div class="img_foot">
+						<img src="img/parallax/calidadabajo.png" style="width:150px; height:100px;">
+					</div>
 				</div>
 			</div>
 		</article>
