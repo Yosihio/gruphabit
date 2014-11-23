@@ -84,10 +84,18 @@
 		<div class="footer_div_contacto">
 			<p><strong>Contacto</strong></p>
 			<ul>
-				<li>(228) 8 41 56 61</li>
-				<li>(228) 8 41 17 18</li>
-				<li>direccion@grupo‐habitat.com</li>
-				<li>ventas@grupo‐habitat.com</li>
+				<li>
+					<a href="tel:8415661">(228) 8 41 56 61</a>
+				</li>
+				<li>
+					<a href="tel:8411718">(228) 8 41 17 18</a>
+				</li>
+				<li>
+					<a href="mailto:direccion@grupo‐habitat.com">direccion@grupo‐habitat.com</a>
+				</li>
+				<li>
+					<a href="mailto:ventas@grupo‐habitat.com">ventas@grupo‐habitat.com</a>
+				</li>
 			</ul>
 		</div>
 		<div class="footer_div_socialmedia">
