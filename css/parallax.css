@@ -1,0 +1,23 @@
+.image1 {
+	background: url('../img/slider/nature.jpg') no-repeat fixed;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 500px;
+
+	
+}
+
+.image2 {
+	background: url('../img/slider/nature3.jpg') no-repeat fixed;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 500px;
+
+	
+}

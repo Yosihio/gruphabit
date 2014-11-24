@@ -72,7 +72,6 @@ div .post-contenido p{
 	-webkit-margin-end: 0px;
 	text-align: justify;
 	/*border-style: outset; border-width: 1px;*/
-	border-bottom: 2px solid #CCC;
 /*	-webkit-text-stroke: 0.3px black; 
 	color: white; */
 }
@@ -177,15 +176,20 @@ ul{
 	height: 50px;
 	padding-top: 1.5em;
 }
-/*#div_social{
-	font-size: 30px;
-	text-align: center;
-	margin-top: .5em;
-	padding-right: 3em;
-}*/
+#registros_r, #registros_l{
+	width:50%;
+}
+#registros_r{
+	float: left;
+}
+#registros_l{
+	margin-left: 50%;
+}
 #tras{
 	display: block;
 	animation: fadein 3s;
+	border-bottom: 2px solid #CCC;
+	font-size: 30px
 	
 }
 .caja-interna{
@@ -253,6 +257,7 @@ ul{
 .post-cajon{
 	margin: 0 auto;
 	max-width: 800px;
+	margin-bottom: 50px;
 /*	background-color: white;  */
 }
 .post-contenido{
@@ -278,6 +283,7 @@ ul{
 	max-height: 200px;
 	display:block;
 	margin:0 auto 0 auto;
+	padding: 20px;
 }
 
 @keyframes fadein {
@@ -332,6 +338,15 @@ ul{
 		max-width: 100%;
 		margin-top:0;
 	}
+	#registros_r, #registros_l{
+		width:100%;
+	}
+	#registros_r{
+		float: none;
+	}
+	#registros_l{
+		margin-left: 0px;
+	}
 	.img_header{
 		display:none;
 	}
@@ -355,6 +370,9 @@ ul{
 		width:100%;
 		height:200px;
 	} 
+	.image1, .image2{
+		display:none;
+	}
 	.slider img{
 		max-height: 500px;
 	}

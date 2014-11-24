@@ -8,6 +8,7 @@
 	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
+	<link rel="stylesheet" href="css/parallax.css" />
 	<script src="js/prefixfree.js"></script>
 
 </head>
@@ -39,34 +40,49 @@
 		</div>	
 	</header>
 
+	<div class="image1"></div>
+	
 	<section id="contenido">
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p id="tras"><strong>Estamos Certificados En ISO 9001:2008</strong></p>
-						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
-							<img id="tam" src="img/ISOS.png"/>
-						</a>
-					<p id="tras"><strong>Contamos Con Registros En:</strong></p>
+					<p id="tras">
+						<strong>Estamos certificados en ISO 9001:2008</strong>
+					</p>
+					<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
+						<img id="tam" src="img/ISOS.png"/>
+					</a>
+				</div>
+			</div>	
+			<div class="post-cajon">
+				<div class="post-contenido">
+					<p id="tras">
+						<strong>Contamos con registros en:</strong>
+					</p>
+					<div id="registros_r">
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/ema.png"/>
 						</a>
-						<br/>
+					
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_5.png"/>
 						</a>
-						<br/>
+					</div>
+					<div id="registros_l">
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_6.png"/>
 						</a>
-						<br/>
+				
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/proteccion-civil.png"/>
 						</a>
+					</div>
 				</div>
 			</div>
 		</article>
 	</section>
+
+	<div class="image2"></div>
 
 	<section id="colaboradores" class="colaboradores">
 		<div class="contenedor caja-interna">
