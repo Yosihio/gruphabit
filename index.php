@@ -8,10 +8,11 @@
 	<link href='img/icon/habitat.PNG' rel='shortcut icon' type='image/png'>
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
+	<link rel="stylesheet" href="css/parallax.css" />
 	<script src="js/prefixfree.js"></script>
 
 </head>
-<body onload="Slider();">
+<body>
 <div id="colorson">
 	<header>
 		<div id="div_logo">
@@ -21,15 +22,8 @@
 				</a>
 			</figure>
 			<h1>
-				Grupo Ambiental Hábitat &nbsp &nbsp &nbsp
-				<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
-					<img src="icoms/LinkedInOut.png" width="40" height="40" onMouseOver="this.src='icoms/LinkedInOver.png';" onMouseOut="this.src='icoms/LinkedInOut.png';"/>
-				</a>
-				&nbsp
-            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
-            		<img src="icoms/FacebookOut.png" width="40" height="40" onMouseOver="this.src='icoms/FacebookOver.png';" onMouseOut="this.src='icoms/FacebookOut.png';" />
-            	</a>
-            	&nbsp
+				Grupo Ambiental Hábitat
+           
 			</h1>
 		</div>
 		<div id="div_menu">	
@@ -39,56 +33,60 @@
 					<li><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
-		</div>
-		<div id="div_social">
 		</div>	
 	</header>
 
-	<section id="noticias">
-		<div class="slider">
-			<img id="1" src="img/slider/nature.jpg" border="0" alt="captions"/>
-			<img id="2" src="img/slider/nature1.jpg" border="0" alt="coffee"/>
-			<img id="3" src="img/slider/nature2.jpg" border="0" alt="overflow"/>
-			<img id="4" src="img/slider/nature3.jpg" border="0" alt="overflow"/>
-		</div>
-	</section>
-
-<section id="contenido">
+	<div class="image1"></div>
+	
+	<section id="contenido">
 		<article class="post">
 			<div class="post-cajon">
 				<div class="post-contenido">
-					<p id="tras"><strong>Estamos Certificados En ISO 9001:2008</strong></p>
-						<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
-							<img id="tam" src="img/ISOS.png"/>
-						</a>
-					<p id="tras"><strong>Contamos Con Registros En:</strong></p>
+					<p id="tras">
+						<strong>Estamos certificados en ISO 9001:2008</strong>
+					</p>
+					<a href="http://uvsigloxxi.com/" target="_blank" rel="nofollow">
+						<img id="tam" src="img/ISOS.png"/>
+					</a>
+				</div>
+			</div>	
+			<div class="post-cajon">
+				<div class="post-contenido">
+					<p id="tras">
+						<strong>Contamos con registros en:</strong>
+					</p>
+					<div id="registros_r">
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/ema.png"/>
 						</a>
-						<br/>
+					
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_5.png"/>
 						</a>
-						<br/>
+					</div>
+					<div id="registros_l">
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/Screenshot_6.png"/>
 						</a>
-						<br/>
+				
 						<a href="" target="_blank" rel="nofollow">
 							<img id="tam" src="img/proteccion-civil.png"/>
 						</a>
+					</div>
 				</div>
 			</div>
 		</article>
 	</section>
 
+	<div class="image2"></div>
+
 	<section id="colaboradores" class="colaboradores">
 		<div class="contenedor caja-interna">
-			<h3 class="proveedor font-proveed">Somos Proveedores De Servicios De:</h3>
+			<h3 class="proveedor font-proveed">Nuestros clientes son:</h3>
 			<div class="logotipos">
 				<a href="http://www.acuariodeveracruz.com/" target="_blank" rel="nofollow" title="Acuario De Veracruz" class="sponsor">
 					<img src="img/Acuariover.png" alt="Acuario De Veracruz" height="50">
@@ -179,15 +177,54 @@
 		</div>
 	</section>
 
+	<div style="background:url('img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
-    	<div class="fcontenido">
+		<div class="footer_div_contacto">
+			<p><strong>Contacto</strong></p>
+			<ul>
+				<li>
+					<a href="tel:8415661">(228) 8 41 56 61</a>
+				</li>
+				<li>
+					<a href="tel:8411718">(228) 8 41 17 18</a>
+				</li>
+				<li>
+					<a href="mailto:direccion@grupo‐habitat.com">direccion@grupo‐habitat.com</a>
+				</li>
+				<li>
+					<a href="mailto:ventas@grupo‐habitat.com">ventas@grupo‐habitat.com</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer_div_socialmedia">
+			<p><strong>Nuestras redes sociales</strong></p>
+			<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
+				<img src="img/svg/linkedin.svg" width="50" height="50"/>
+			</a>
+			&nbsp
+			&nbsp
+			&nbsp
+	     	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
+	            <img src="img/svg/facebook.svg" width="50" height="50"/>
+	       	</a>
+	           
+		</div>
+		<div class="footer_div_ubicacion">
+			<p><strong>Ubicación</strong></p>
+			<div class="footer_div_direccion">
+				<ul>
+					<li>Xalapeños Ilustres #164 bis</li>
+					<li>Colonia Centro Histórico</li>
+					<li>C. P. 91000</li>
+					<li>Xalapa, Veracruz</li>
+				</ul>
+			</div>
+			<div class="footer_div_maps" id="googleMap"></div>
+		</div>
+    	<div class="fcontenido" style="margin-top:20px;">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2014</span>
-        	<div class="social">
-            	<div><span>Nos Encuentran En<br></span>
-            		<a href="https://www.google.com.mx/maps/place/Grupo+Ambiental+Habitat,+S.A.+De+C.V./@19.529025,-96.91447,17z/data=!3m1!4b1!4m2!3m1!1s0x85db32023415b1d3:0xfc2e33009f890070" class="icon-map-pin sponsor" target="_blank" rel="nofollow"></a>
-            	</div>
-        	</div>
     	</div>
 	</footer>
 
@@ -195,6 +232,8 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false"></script>
+	<script type="text/javascript" src="js/gmaps.js"></script>
 </div>
 </body>
 </html>

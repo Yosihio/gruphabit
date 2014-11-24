@@ -12,7 +12,7 @@
 
 
 </head>
-<body onload="Slider();">
+<body>
 <div id="colorson">
 	<header>
 		<div id="div_logo">
@@ -22,15 +22,7 @@
 				</a>
 			</figure>
 			<h1>
-				Grupo Ambiental Hábitat &nbsp &nbsp &nbsp
-				<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
-					<img src="icoms/LinkedInOut.png" width="40" height="40" onMouseOver="this.src='icoms/LinkedInOver.png';" onMouseOut="this.src='icoms/LinkedInOut.png';"/>
-				</a>
-				&nbsp
-            	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
-            		<img src="icoms/FacebookOut.png" width="40" height="40" onMouseOver="this.src='icoms/FacebookOver.png';" onMouseOut="this.src='icoms/FacebookOut.png';" />
-            	</a>
-            	&nbsp
+				Grupo Ambiental Hábitat
 			</h1>
 		</div>
 		<div id="div_menu">	
@@ -40,7 +32,7 @@
 					<li class="selected"><a href="servicios.php">Servicios</a></li>
 					<li><a href="historia.php">Historia</a></li>
 					<li><a href="alianzas.php">Alianzas</a></li>
-					<li><a href="contactanos.php">Contactanos</a></li>
+					<li><a href="contactanos.php">Contáctanos</a></li>
 					<li><a href="login.php">Login</a></li>
 				</ul>
 			</nav>
@@ -54,10 +46,11 @@
 					<p id="tras"><strong>AMBIENTAL (UVPROFEPA 072) </strong></p>
 					<p>
 						-Manifiestos de Impacto Ambiental Estatal y Federal.<br>
-						-Estudios de Riesgos Estatal y Federal.<br>
+						-Estudios de Riesgos Federal.<br>
+                        -Estudios de Riesgos Estatal.<br>
 						-Cedula de Operación Anual (COA).<br>
 						-Licencia Ambiental Única (LAU) Federal.<br>
-						-Licencia Ambiental de Funcionamiento (LAF) Esraral.<br>
+						-Licencia Ambiental de Funcionamiento (LAF) Estatal.<br>
 						-Registro como empresa generadora de residuos peligrosos.<br>
 						-Registro como empresa generadora de residuos de manejo especial.<br>
 						-Cambio de uso de suelo.<br>
@@ -118,7 +111,7 @@
 				<div class="post-contenido">
 					<p id="tras"><strong>CALDERAS, RECIPIENTES SUJETOS A PRESIÓN Y CRIOGÉNICOS</strong></p>
 					<p>
-						-Verificación de la NOM-020-STPS 2010 para recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
+						-Verificación de la NOM-020-STPS 2011 para recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
 						-Prueba hidrostática.<br>
 						-Ensayos no destructivos.<br>
 						-Elaboración de planos, manuales, bitácoras de los recipientes sujetos a presión, calderas y recipientes criogénicos.<br>
@@ -148,15 +141,54 @@
 		</article>
 	</section>
 
+	<div style="background:url('img/svg/grass1.svg'); height:50px;">
+	</div>
 
 	<footer id="footer" class="footer">
-    	<div class="fcontenido">
+		<div class="footer_div_contacto">
+			<p><strong>Contacto</strong></p>
+			<ul>
+				<li>
+					<a href="tel:8415661">(228) 8 41 56 61</a>
+				</li>
+				<li>
+					<a href="tel:8411718">(228) 8 41 17 18</a>
+				</li>
+				<li>
+					<a href="mailto:direccion@grupo‐habitat.com">direccion@grupo‐habitat.com</a>
+				</li>
+				<li>
+					<a href="mailto:ventas@grupo‐habitat.com">ventas@grupo‐habitat.com</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer_div_socialmedia">
+			<p><strong>Nuestras redes sociales</strong></p>
+			<a href="http://www.linkedin.com/company/grupo-ambiental-h%C3%A1bitat-s-a-de-c-v-" target="_blank" rel="nofollow">
+				<img src="img/svg/linkedin.svg" width="50" height="50"/>
+			</a>
+			&nbsp
+			&nbsp
+			&nbsp
+	     	<a href="https://www.facebook.com/GrupoAmbientalHabitat?fref=ts" target="_blank" rel="nofollow">
+	            <img src="img/svg/facebook.svg" width="50" height="50"/>
+	       	</a>
+	           
+		</div>
+		<div class="footer_div_ubicacion">
+			<p><strong>Ubicación</strong></p>
+			<div class="footer_div_direccion">
+				<ul>
+					<li>Xalapeños Ilustres #164 bis</li>
+					<li>Colonia Centro Histórico</li>
+					<li>C. P. 91000</li>
+					<li>Xalapa, Veracruz</li>
+				</ul>
+			</div>
+			<div class="footer_div_maps" id="googleMap"></div>
+		</div>
+    	<div class="fcontenido" style="margin-top:20px;">
         	<span>Grupo Ambiental Hábitat S. A. de C. V. © 2014</span>
-        	<div class="social">
-            	<div><span>Nos Encuentran En<br></span>
-            		<a href="https://www.google.com.mx/maps/place/Grupo+Ambiental+Habitat,+S.A.+De+C.V./@19.529025,-96.91447,17z/data=!3m1!4b1!4m2!3m1!1s0x85db32023415b1d3:0xfc2e33009f890070" class="icon-map-pin sponsor" target="_blank" rel="nofollow"></a>
-            	</div>
-        	</div>
     	</div>
 	</footer>
 
@@ -164,6 +196,8 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/habitatjs.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false"></script>
+	<script type="text/javascript" src="js/gmaps.js"></script>
 </div>
 </body>
 </html>
